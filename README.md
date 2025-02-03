@@ -60,5 +60,5 @@ This project is a comprehensive **automation testing suite** for validating the 
 
 ---
 ### 📑 Author 
-
+GitHub: [manishdahake10](https://github.com/manishdahake10) 
 
